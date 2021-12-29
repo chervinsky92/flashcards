@@ -1,72 +1,325 @@
 word,definition
-affable,being pleasant and at ease in talking to others
-cordial,"sincere, heartfelt"
-omnipresent,present at all places at the same time
-subterranean,underground
-decadence,"state of deterioration or decay, especially due to being excessively morally corrupt"
-overture,an approach made to someone in order to discuss or establish something (overture of peace)
-confound,throw a person into confusion
-juxtaposition,"place 2+ things side by side to compare, contrast, or create an interesting effect"
-myopic,not being able to see things clearly that are far away
-acute,sharp
-hyperbole,exaggeration
-accost,to approach or stop and speak to someone in a threatening way
-intrinsic,of or relating to the essential nature of a thing
-extrinsic,"external, not essential or inherent part of a thing"
-discerning,"perceptive, recognize small details"
-iconoclastic,"attacking, seeking to overthrow traditional/popular ideas/institutions"
-proverbial,something well known and commonly referred to
-perpetual,continuing forever
-self-effacing,"not drawing attention to oneself, modest"
-antihero,main character who lacks heroic qualities
-nonstarter,an idea with no chance of being accepted or successful
-megalomania,"a form of mental illness marked by delusions of greatness, wealth, or power"
-trite,lacking in freshness or effectiveness because of constant use or excessive repetition
-opaque,"hard to understand, not allowing light to pass through"
-prescient,knowing things/events before they exist or happen
-bewilder,to confuse
-delude,"to mislead, deceive"
-mundane,"ordinary, unexciting"
-trepidation,a state of alarm or dread
-misanthropy,"hatred, dislike, distrust of the human species"
-haphazard,lack of plan/order/direction
-self-effacing,"not drawing attention to oneself, modest"
-antihero,main character who lacks heroic qualities
-foreboding,a sense of impending evil or misfortune
+abominable,very bad or unpleasant
 abridged,"shortened, condensed"
-modularity,"tweaking one component in system affects the functioning of other components"
-analog,something that is comparable
-pedantic,describes someone who annoys others by correcting small errors
-heuristic,"a mental shortcut that allows an individual to solve a problem quickly"
-algorithm,a set of well-defined instructions for carrying out a particular task 
+accost,"to approach or stop and speak to someone in 
+a threatening way"
 accretion,increase in size by a gradual external addition
+acute,sharp
+adjudicate,"to make an official decision about who is 
+right in a dispute"
+adroit,"having/showing skill, cleverness in handling 
+situations"
+affable,being pleasant and at ease in talking to others
+aflame,deeply aroused (with passion)
+aggravate,make worse or more troublesome
+aghast,"struck by shock, terror"
+agnostic,"one who believes that it is impossible to 
+know whether there is a god"
+algorithm,"a set of well-defined instructions for carrying 
+out a particular task "
+aloof,"at a distance, especially in interest/feeling"
+altruism,regardful of others
+amalgamate,to join/unite to form a larger group 
+amorphous,formless
+analog,something that is comparable
+anhedonia,inability to feel pleasure
+animist,"a person who believes all natural things 
+(plants, animals, rocks) have spirits and 
+can influence human events"
+antihero,main character who lacks heroic qualities
+apartheid,"system of institutional racial segregation that 
+existed in South Africa"
+apogee,the highest point
+arbitrary,"determined by chance/impulse and not by 
+reason/principle "
+arbitrary number,any number
+arcane,"obscure, known to only a few people"
+aristocrat,member of the highest order of society
+atrophy,"wasting away or decrease in size of body part due 
+to disease, injury, or lack of use"
+attrition,"gradual weakening, loss, or destruction"
+audacious,recklessly bold
+audit,"to attend a course without receiving formal credit for it | 
+examination of person’s/organization’s financial situation"
+auspicious,showing or suggesting that future success is likely
+austere,"rigorously self-disciplined, severely moral, strict"
+autocrat,person who has all the power
+axiom,"a self-evident or universally accepted truth 
+(nobody would argue against it) 
+[governments should not negotiate with terrorists]"
+beckon,to signal with a wave or nod
+beneficence,"the doing of goodness, kindness, charity"
+benevolent,doing good
+bewilder,to confuse
+botanist,a scientist who studies plants
+brevity,the quality of expressing much in a few words
+bureaucracy,"government characterized by specialization of 
+functions, adherence to fixed rules, and hierarchy 
+of authority"
+bureaucrat,"person with an official position in the government: 
+an official who works a fixed routine without 
+exercising intelligent judgment"
+cadence,rhythmic flow of a sequence of sounds or words
+callous,hardened
+callousness,"being insensitive, indifferent, unsympathetic"
+canny,clever
+capital,"cash that is being put to work for productive 
+or investment purposes (stock market)"
+capricious,"impulsive, unpredictable"
+cataclysm,an event that causes a lot of destruction
+celestial,pertaining to the sky or outside this world [moon]
+charlatan,"faker, one who makes false claims of identity or 
+expertise"
+coalesce,to grow into a single mass
+coefficient,number used to multiply a variable
+coerce,"to pressure, intimidate, force someone into 
+doing something"
+cognizant,"to be aware, knowledgeable "
+cohort,"a group of people who share a characteristic 
+(usually age)  "
+collate,to collect and arrange in the correct order
+communal,used/shared by everyone in the group
+concurrent,operating/occurring at the same time
+confound,throw a person into confusion
+congenial,of a pleasant disposition
+conjecture,"opinion or judgement based on 
+inconclusive/incomplete evidence"
+conspicuous ,"easy to notice, obvious"
+contingency,"something (such as an emergency) that might 
+happen [insurance]"
+contour,"outline, shape"
+conundrum,"puzzle, problem"
+cordial,"sincere, heartfelt"
+countenance,"look, expression"
+creed,"a system of beliefs, principles"
+cultivate,"to try to develop and improve something 
+(like a relationship)"
+decadence,"state of deterioration or decay, especially due to 
+being excessively morally corrupt"
+decree,an order usually having the force of law
+deference,"a readiness or willingness to yield to the wishes 
+of others"
+deft,"skillful, clever"
+delude,"to mislead, deceive"
+demur,delay in acting or deciding
+despondency,state of being extremely low in spirits
+despot,a ruler with absolute power and authority 
+deterministic,"believing that everything that happens must happen 
+as it does and could not have happened any other way"
+dewy,moist with dew
+dexterity,skill in using the hands or body
+dichotomy,a division into two contrasting parts
+dilapidated,"having fallen into a state of deterioration, decay"
+discerning,"perceptive, recognize small details"
+disciple,"one who embraces and assists in spreading the 
+teachings of another"
+disconcerted,"to lose composure, throw into confusion"
+dogmatic,"expression of opinions very strongly as if they 
+were facts"
+doldrums,"a period/state of inactivity, stagnation, or slump"
+earnest,serious in intention 
+ecosystem,group of elements that interact with one another
+efficacy,effectiveness
+egalitarian,believes in equality of all people
+elongated,to make longer
+empirical,based on observation or experience
+endow,to equip/supply with a talent or quality
+ephemeral,lasting a very short time
+epoch,a memorable event or date
+ergonomic,designed to minimize physical effort and discomfort
+eschew,to refrain from
+evocative,"tending to evoke (make someone remember 
+something or feel an emotion)"
+exacerbate,to increase severity of
+exalted,"elevated in rank, power, and character"
+exhortation,"a speech that encourages, incites, advises"
+expound,to explain in detail
+extrapolate,"to predict by projecting past experience or 
+known data"
+extrinsic,"external, not essential or inherent part of a thing"
+feigning,faking
+forager,"person/animal who goes in search of food, provisions 
+(supplies)"
+foreboding,a sense of impending evil or misfortune
+fortnight,a period of 14 days
+frugal,"not wasteful, economical"
+fungible,interchangeable 
+gawking,looking at someone in a stupid or rude way
+gregarious,"sociable, seeking and enjoying the company of others"
+haphazard,lack of plan/order/direction
+harbinger,something that foreshadows a future event
+hegemony,the dominance of one group over another
+heuristic,"a mental shortcut that allows an individual to solve 
+a problem quickly and with minimal mental effort  (a technique that helps you look for an answer)"
+hyperbole,exaggeration
+iconoclastic,attacking traditional ideas
+imperial,"of, relating to an empire"
+impervious,incapable of being affected
+impetuous,"acting quickly, controlled by emotion rather than 
+thought"
+implausibility,difficult to believe 
+impute,"the attribute (something dishonest/dishonorable) 
+to a person"
+in absentia,in absence
+incessant,unceasing
+inclusive,including everything within its scope
+indignation,"strong displeasure at something unjust, offensive"
+induce,"succeed in persuading/influencing someone to 
+do something"
+ingenious,very intelligent and skillful
+ingenuity,being cleverly inventive or resourceful
+inhibit,to hold back
+inquisitive,intellectually curious
+insidious ,"causing harm in a way that is gradual and not 
+easily noticed "
+insolent,boldly rude or disrespectful
+insolvent,"unable to meet debts, bankrupt"
+interlope,to intrude
+intractable,not easily managed or controlled
+intrinsic,of or relating to the essential nature of a thing
+intuitive,easily understood and simple to use
+irreproachable,perfect or blameless in ever respect
+irreverent,critical of what is generally accepted/respected
+juxtaposition,"place 2+ things side by side to compare, contrast, 
+or create an interesting effect"
+keen,"sharp, intense"
+lacuna,blank space or missing part
+litigation,the act of settling a dispute in the court of law
+magnate,"powerful/influential people, especially in business"
+malaise,"feeling of weakness, not feeling well"
+meek,"someone who shows patient restraint, person who 
+is too passive"
+megalomania,"a form of mental illness marked by delusions of 
+greatness, wealth, or power"
+mercurial,"volatile, erratic"
+meta,referring to itself
+misanthropic,"hatred, dislike, distrust of human species"
+mistress,"woman who has a continuing sexual relationship with 
+a man who is married to someone else / woman who 
+has power authority, or ownership"
+modularity,"the degree to which a system’s components may be 
+separated and recombined, often with the benefit of 
+flexibility and variety in use; tweaking one component 
+affects the functioning of other components"
+moonlighting,working an extra job without telling your main employer
+morose,gloomy
+mundane,"ordinary, unexciting"
+mutable,"prone to change, inconstant"
 mutually exclusive,two events cannot occur at the same time
 mutually inclusive,both events can occur at the same time
-scowling,"to look at someone with a very annoyed expression,  contract (wrinkle) brow"
-misanthropic,"hatred, dislike, distrust of human species"
-truncate,"shorten, cut off a portion"
-ephemeral,lasting a very short time
-fungible,interchangeable 
-ordeal,"extreme, trying test or experience "
-coefficient,number used to multiply a variable
-arbitrary,based on desire/chance rather than reason
-dogmatic,expression of opinions very strongly as if they were facts
-pragmatic,"practical, realistic, willing to see things as they really are"
-vernacular,"type of speech variety, a local language/dialect"
-pivot,to twist or turn; the central or most important person/thing in a situation
-bureaucrat,person with an official position in the government
-sedentary,accustomed to sitting or getting little exercise
-earnest,serious in intention 
-amorphous,formless
-intuitive,easily understood and simple to use
-transpose,"reverse, interchange (x -> y, y -> x)"
-thaw,change from frozen solid to liquid by gradual warming 
-insolent,boldly rude or disrespectful
-intractable,not easily managed or controlled
-conundrum,"puzzle, problem"
-cultivate,to try to develop and improve something (like a relationship)
-transgression,"an act that goes past set limits or breaks a law (having an affair, speed limit)"
+myopic,not being able to see things clearly that are far away
+nebulous,"not clear, hazy"
+neuroticism,"tendency towards anxiety, depression, self-doubt"
+nomad,"member of a group of people who move from place to 
+place instead of living in one place all of the time"
+nonchalance,lack of interest or concern
+nonstarter,an idea with no chance of being accepted or successful
+nuclear family,"a family with mother, father, and children 
+(vs single-parent family)"
+obstinately,"stubbornly adhering to an attitude, opinion, or course 
+of action"
+omnipotent,"having unlimited authority, power"
+omnipresent,present at all places at the same time
 omniscient,"having total knowledge, knowing everything"
+onerous,"troublesome, causing hardship"
+opaque,"hard to understand, not allowing light to pass through"
+ordeal,"extreme, trying test or experience "
+oscilate,"to swing back and forth with a steady, uninterrupted 
+rhythm"
+ostensibly,"appears/claims to be one thing when it is really 
+something else"
+overture,"an approach made to someone in order to discuss 
+or establish something (overture of peace)"
+paradox,"a statement that seems difficult to understand because 
+it two opposite facts or characteristics 
+[drinking a lot of water can make you feel thirsty]"
+patriarch,male leader
+pedantic,"describes someone who annoys others by correcting 
+small errors"
+per capita,per unit of population (per person)
+perdition,"loss of the soul, state of spiritual ruin"
+perpetual,continuing forever
+petulant,unreasonably irritable
+pivot,"to twist or turn; the central or most important 
+person/thing in a situation"
+placate,"disarm, pacify"
+platonic,friendly or affectionate without involving sexual relations
+pragmatic,"practical, realistic, willing to see things as they really are"
+precarious,dangerously lacking in security/stability
+premonition,"a feeling that something will happen when there 
+is no definite reason to believe it will"
+prescient,knowing things/events before they exist or happen
 proprietor,the owner of a business establishment
+propriety,"conformity to conventional standards of behavior 
+or morality"
+proverbial,something well known and commonly referred to
+proxy,the authority to act for another
+prudence,exercising good judgment 
+quantum,"refers to the smallest amount of something you
+ can have "
+quixotic,"caught up in the romance of noble deeds and 
+unreachable goals"
+raucous,rough-sounding and harsh
+readily,"willingly, easily"
+remote,"located far away, secluded"
+reprieve,"to delay the punishment or impending sentence 
+of someone"
+resolute,firm determination
+respite,a period of temporary delay
 reverence,a feeling or attitude of profound respect
-aflame,deeply aroused (with passion)
+reverie,daydream
+ruse,a trick intended to deceive someone 
+salient,most noticeable or important
+scorn,"open dislike of someone/something considered 
+unworthy of one’s respect/concern"
+scoundrel,"evil, mean, unprincipled person"
+scowling,"to look at someone with a very annoyed expression,  contract (wrinkle) brow"
+sedentary,accustomed to sitting or getting little exercise
+self-effacing,"not drawing attention to oneself, modest"
+sequester,to withdraw into solitude or retirement
+shrewd,having a clever awareness
+sovereignty,the supreme authority within a territory
+sprawl,"process in which the spread of development 
+across a landscape far outpaces population growth"
+staccato,note of shortened duration
+stout,bulky in figure
+stupefy,to cause someone to be unable to think clearly 
+subjugate,"to bring under control, conquer (by military force)"
+subsistence,enough money or food to keep yourself alive
+subterranean,underground
+sullen,angry and unwilling to smile or be pleasant to people
+superfluous,"excessive, beyond what is required or sufficient"
+syndicated,"sold to several different newspapers/broadcasting 
+organizations"
+tantalizing,"to excite by exposing something desirable that is 
+difficult or impossible to obtain"
+tempestuous,"turbulent, stormy "
+thaw,change from frozen solid to liquid by gradual warming 
+theology,study of religious faith
+torrent,a violent/forceful flow of fluid
+transgression,"an act that goes past set limits or breaks a law 
+(having an affair, speed limit)"
+transpose,"reverse, interchange (x -> y, y -> x)"
+trepidation,a state of alarm or dread
+trite,"lacking in freshness or effectiveness because of 
+constant use or excessive repetition"
+truncate,"shorten, cut off a portion"
+uber,to an extreme or excessive degree
+ubiquitous,"being or seeming to be everywhere at the same 
+time (omnipresent)"
+uncanny,strange/unusual in a way that is difficult to understand 
+usurp,to take over and occupy without right
+vernacular,"type of speech variety, a local language/dialect"
+vexation,irritation
+vigorous ,strong and healthy 
+wearily,in a way that shows physical or mental exhaustion
+wry,"funny in an understated, sarcastic, or ironic way"
+xenophobia,"fear or hatred of foreigners, strangers"
+zenith,imaginary point directly above a particular location
+iridescent,"showing many bright colors (rainbow) that change 
+in movement"
+granularity,"a lot of small details included in information, making 
+it possible to understand clearly what’s happening"
+antagonist,"adversary, opponent"
+wedlock,the state of being married
+intercede,act as a go-between for opposing sides

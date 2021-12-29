@@ -6,6 +6,7 @@ BACKGROUND_COLOR = '#B1DDC6'
 WORD_FONT_FRONT = ('Ariel', 60, 'bold')
 WORD_FONT_BACK = ('Ariel', 40, 'italic')
 DEFINITION_FONT = ('Ariel', 20)
+FLIP_TIME_MS = 5000
 current_card = {}
 # ---------------------------- LOAD DATA ------------------------------- #
 # Check if user has a personalized list of words, if not open default vocab list
@@ -32,7 +33,7 @@ def next_card():
         canvas.itemconfig(top_text, text='', fill='black')
         canvas.itemconfig(bottom_text, text=current_card['word'], fill='black', font=WORD_FONT_FRONT)
         canvas.itemconfig(card_background, image=card_front_img)
-        flip_timer = window.after(3000, func=flip_card)
+        flip_timer = window.after(FLIP_TIME_MS, func=flip_card)
 
 
 # ---------------------------- FLIP CARD ------------------------------- #
